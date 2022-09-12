@@ -8,7 +8,5 @@ int main() {
     scanf("%d", &n);
     map<int, int> xs;
     map<int, int> ys;
-    map<pair<int, int>, int> zs;
-    long long ans = 0;
     return 0;
 }
